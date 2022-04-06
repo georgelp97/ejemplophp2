@@ -1,2 +1,0 @@
-/*/*/*/*/
-pasos para programar
